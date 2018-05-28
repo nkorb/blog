@@ -1,4 +1,4 @@
-baseURL = "https://nkorb.gr"
+baseURL = "https://blog.nkorb.gr"
 title = "/home/nkorb"
 theme = "manis"
 
@@ -16,7 +16,7 @@ disqusShortname = ""
 defaultContentLanguage = "en"
 
 # Code Highlighting (Chroma)
-pygmentsUseClassic=true
+pygmentsUseClassic=false
 pygmentsStyle = "monokai"
 
 [taxonomies]
@@ -29,7 +29,7 @@ pygmentsStyle = "monokai"
 	customCSS = []
 
 	# List of sections support disqus comments
-	disqusSections = [ "blog" ]
+	disqusSections = []
 	# Site meta description
 	description = "systems && stuff"
 	# Site's Tagline (Subtitle or Keyword)
