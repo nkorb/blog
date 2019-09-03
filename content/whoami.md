@@ -1,7 +1,7 @@
 ---
 title: "whoami"
 description: "About me"
-date: "2018-05-19"
+date: "2019-09-03"
 menu: main
 ---
 
@@ -17,10 +17,14 @@ DJing with my
 operating my noobish V/U Amateur Radio transceivers as **SV1QYH**, talking about
 Greek politics and Free Software.
 
-I currently work as a Systems and Service Engineer at the Greek Research and
-Technology Network, [GRNET](https://grnet.gr). I'm part of GRNET's NOC Systems
-Team, that designs and operates a wide portfolio of services for the Greek
-research and academic community, using (almost!) only Free Software.
+I currently work as a Systems Engineer at [Skroutz](https://www.skroutz.gr),
+a Comparison Shopping Engine, E-Commerce marketplace and one of Greece's most
+popular websites. I'm a part of Skroutz's Systems Team, which designs and
+operates the company's infrastructure, ranging from its own network and
+bare-metal servers, up to the application level and internal tooling.
+
+I also maintain a [LinkedIn](https://linkedin.com/in/nkorb) profile with more
+details about my professional life, my previous jobs and more.
 
 Also, I'm a student at the National Technical University of Athens, at the
 [School of Electrical and Computer Engineering](https://ece.ntua.gr).
@@ -30,9 +34,6 @@ the [Free Software Community of NTUA (foss.ntua)](https://foss.ntua.gr).
 
 I occasionally [tweet](https://twitter.com/nkorbbb) and upload some of my
 photos on [500px](https://500px.com/nkorbb).
-
-I also maintain a [LinkedIn](https://linkedin.com/in/nkorb) profile with more
-details about my professional life.
 
 If you want to communicate with me, you can reach me at my personal email,
 nkorb (+b) (a t) (google's)mail (ddott) com. I prefer plain text emails.
