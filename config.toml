@@ -3,7 +3,7 @@ title = "/home/nkorb"
 theme = "manis"
 
 # Copyright notice. Note: You can use HTML tag here
-copyright = "&copy; 2018 Nikos Kormpakis"
+copyright = "&copy; 2019 Nikos Kormpakis"
 pluralizeListTitles = false
 
 # Minimum number of posts before paginate navigation show up
