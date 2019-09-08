@@ -51,9 +51,9 @@ pygmentsStyle = "monokai"
 	# Color of your website's accent
 	colorTheme = "#ff8181"
 	# Maximum number of item in Latest Posts or Works
-	latestCount = 10
+	latestCount = 100
 	# Path to site's favicon image
-	faviconImg = ""
+	faviconImg = "/favicon.ico"
 	# Date format in item list
 	dateFmt = "Jan 02, 2006"
 
@@ -67,6 +67,8 @@ pygmentsStyle = "monokai"
 	github = "https://github.com/nkorb"
 	twitter = "https://twitter.com/nkorbbb"
     linkedin = "https://www.linkedin.com/in/nkorb/"
+
+    images = ["front.jpg"]
 
 
 # Language Configuration
